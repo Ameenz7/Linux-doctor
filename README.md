@@ -1,6 +1,7 @@
 # linux-doctor
 
 A Bash-based Linux diagnostic CLI with a menu interface, distro detection, safe problem reporting, and suggested fixes.
+<img width="799" height="616" alt="image" src="https://github.com/user-attachments/assets/6209a785-da37-4e8b-98b2-a068c2bc8c73" />
 
 ## What is included
 
